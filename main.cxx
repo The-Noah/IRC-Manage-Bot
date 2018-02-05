@@ -4,5 +4,6 @@
 int main(int argc, char *argv[]){
   printf("Starting....\n");
 
+  printf("Ending....\n");
   return 0;
 }
