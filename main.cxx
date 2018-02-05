@@ -1,4 +1,5 @@
-// Copyright (c) 2018 The Noah
+// Copyright (C) 2018 The Noah
+// DOES NOT WORK!!!
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
