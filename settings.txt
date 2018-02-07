@@ -1,0 +1,2 @@
+botname=LadyBot
+channel=##thenoahbz

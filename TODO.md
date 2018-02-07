@@ -1,5 +1,5 @@
 # TODO
 
 ## List:
-* Add commands for bot.
-* Document everything.
+* Add more commands for bot.
+* Document everything!!

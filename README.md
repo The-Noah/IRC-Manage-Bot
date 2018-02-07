@@ -2,8 +2,8 @@
 An IRC bot
 
 ## About:
-IRC-Manage-Bot is a bot written for IRC and contains several useful tools and functions for management.
+IRC-Manage-Bot is a bot written for IRC and contains several useful tools and functions for management and more.
 
 ## Authors:
-* Zehra (main)
-* The Noah
+* The Noah (owner & main dev)
+* Zehra (origonal owner)
