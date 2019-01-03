@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Copyright (C) 2018 The Noah
+# Copyright (C) 2018-2019 The Noah
 import socket
 from random import randint
 
